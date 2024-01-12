@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repositorio de prueba del M2 del prep course de Henry
+Este proyecto es una prueba de como crear un repositorio almacenarlo localmente y subirlo a gitHub
